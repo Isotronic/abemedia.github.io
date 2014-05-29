@@ -3,40 +3,40 @@
     alias: web-design
     url: web-design-bremen
     image: /images/services/web-development.png
-    desc: "We offer professional, innovative web design &amp; development, creating accessible, web standards compliant and SEO friendly websites."
+    desc: "Wir bieten Ihnen professionelles, innovatives Web-Design &amp; Entwicklung und erstellen barriere-freie, SEO-freundliche Websites, die den Web-Standards gerecht werden."
 -
     title: Ecommerce
     alias: ecommerce
     url: ecommerce-web-design
     image: /images/services/ecommerce.png
-    desc: "No two online businesses are the same; that's why our online shops are fully customized to support your specific ecommerce strategy."
+    desc: "Keine zwei Online-Unternehmen sind gleich; Und deswegen sind unsere Online-Shops komplett auf Ihre individuelle E-Commerce-Strategie angepasst."
 -
     title: CMS
     alias: cms
     url: content-management-systems-cms
     image: /images/services/joomla-development.png
-    desc: "Our CMS solutions are designed to simplify the publication of your content to your website without requiring any technical knowledge."
+    desc: "Unsere CMS-Lösungen werden entwickelt, um die Veröffentlichung Ihrer Inhalte auf Ihrer Website zu vereinfachen, ohne technische Kenntnisse zu erfordern."
 -
     title: Mobile Web Design
     alias: mobile
     url: responsive-web-design
     image: /images/services/mobile-websites.png
-    desc: "Dedicated mobile sites and responsive web design for mobile phones &amp; tablets. Never miss out on a sale, regardless of the users' device."
+    desc: "Dedicated Mobile Sites und responsive Web-Design für Handys & Tablets. Verpassen Sie keine Verkäufe, unabhängig von dem Benutzer-Endgerät."
 -
     title: Digital Marketing
     alias: seo
     url: seo
     image: /images/services/seo.png
-    desc: "Effective SEO & PPC campaigns to increase your traffic, coupled with conversion optimisation to turn visitors into returning customers."
+    desc: "Effektive SEO & PPC-Kampagnen, um Ihren Traffic zu erhöhen, verbunden mit Conversion-Optimierung, um die Besucher in wiederkehrenden Kunden zu verwandeln."
 -
     title: Illustration & 3D
     alias: illustration
     url: illustration
     image: /images/services/illustration.png
-    desc: "Make your website stand out with beautiful hand drawn or digital artworks and unique animations tailored to your specific requirements."
+    desc: "Zeichnen Sie sich, durch handgemalte oder digitale Kunstwerke und einzigartige animation aus, die perfekt auf Sie zugeschnitten sind."
 -
     title: Graphic design
     alias: graphic
     url: graphic-design
     image: /images/services/illustration.png
-    desc: "From simple logos and promotional material such as leaflets &amp; business cards to full brand identities.<br>We love graphic design!"
+    desc: "Von einfachen Logos und Werbematerial wie Broschüren & Visitenkarte bis hin zur vollen Markenidentität.<br>Wir lieben Grafik-Design!"
