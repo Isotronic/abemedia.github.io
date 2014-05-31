@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Ecommerce, Web Development & Web Design in Brighton
+title: Ecommerce, Web Development & Web Design in Bremen
 heading: Turning dreams into code...
-lead: We specialise in developing innovative, user-friendly websites that boast eye catching designs and render beautifully on any device.
-description: A different web design agency in Brighton. Specialised in web design, ecommerce & cms development.
+lead: Wir sind spezialisiert auf die Entwicklung innovativer, benutzerfreundlicher Websites, die auffällige Designs bieten und auf jedem Gerät wunderschön rendern.
+description: Eine etwas andere Web-Design Agentur in Bremen. Spezialisiert auf Web-Design, Ecommerce & cms Entwicklung.
 slug: home
 class: lead text-justify
 image: /images/services/abemedia.png
