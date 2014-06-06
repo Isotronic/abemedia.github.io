@@ -2,7 +2,7 @@
 layout: page
 title: Ecommerce, Web Development & Web Design in Bremen
 heading: Turning dreams into code...
-lead: Wir sind spezialisiert auf die Entwicklung innovativer, benutzerfreundlicher Websites, die auffällige Designs bieten und auf jedem Gerät wunderschön rendern.
+lead: Wir sind auf die Entwicklung innovativer, benutzerfreundlicher Websites spezialisiert, die auffällige Designs bieten und auf jedem Gerät wunderschön rendern.
 description: Eine etwas andere Web-Design Agentur in Bremen. Spezialisiert auf Web-Design, Ecommerce & cms Entwicklung.
 slug: home
 class: lead text-justify
@@ -34,7 +34,7 @@ bottom:
     class: grey
 ---
 
-# A different web design agency in Brighton
+# Eine etwas andere Web-Design Agentur in Bremen
 
 We're a small yet highly innovative team of technology geeks based in <strong>Brighton</strong>, who create digital experiences for the web & mobile devices, providing <strong>website design</strong>, web development and graphic design services to clients in the UK and Germany.
 
