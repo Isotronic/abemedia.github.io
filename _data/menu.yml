@@ -5,7 +5,7 @@
     title: Services
     items:  
     -
-        title: Web Development
+        title: Web-Entwicklung
         alias: web-design
     -
         title: Ecommerce
@@ -14,11 +14,11 @@
         title: CMS
         alias: cms
     -
-        title: Mobile Web Design
+        title: Mobile Web-Design
         alias: mobile
     -
         title: Illustration
         alias: illustration
     -
-        title: Graphic Design
+        title: Grafik Design
         alias: graphic
