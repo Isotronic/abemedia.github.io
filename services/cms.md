@@ -28,7 +28,7 @@ bottom:
         title: CMS Basic
         price: "1,200"
         icon: user
-        desc: "<b>Joomla! CMS</b> website featuring:"
+        desc: "<b>Joomla! CMS</b> Webseite featuring:"
         features: 
             - Bespoke design | We don't use any templates at ABE Media but create the design from scratch according to your specifications.
             - Search engine friendly build | We follow the latest coding standards, implement search engine friendly URLs and create an XML sitemap which is submitted to Google.
@@ -45,7 +45,7 @@ bottom:
             - Social login | We create applications for platforms such as Facebook, Google & LinkedIn to allow your users to sign in with their social profiles without having to enter any data.
             - 1h remote training | We train you and your staff how to use your site.
     -
-        title: CMS Bespoke
+        title: CMS Individuell
         icon: star
         desc: "A <b>CMS</b> tailored to your needs including:"
         features: 
