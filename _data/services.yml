@@ -17,13 +17,13 @@
     image: /images/services/joomla-development.png
     desc: "Unsere CMS-Lösungen werden entwickelt, um die Veröffentlichung Ihrer Inhalte auf Ihrer Website zu vereinfachen, ohne technische Kenntnisse zu erfordern."
 -
-    title: Mobile Web Design
+    title: Mobile Web-Design
     alias: mobile
     url: responsive-web-design
     image: /images/services/mobile-websites.png
     desc: "Dedicated Mobile Sites und responsive Web-Design für Handys & Tablets. Verpassen Sie keine Verkäufe, unabhängig von dem Benutzer-Endgerät."
 -
-    title: Digital Marketing
+    title: Digitales Marketing
     alias: seo
     url: seo
     image: /images/services/seo.png
@@ -35,7 +35,7 @@
     image: /images/services/illustration.png
     desc: "Zeichnen Sie sich, durch handgemalte oder digitale Kunstwerke und einzigartige animation aus, die perfekt auf Sie zugeschnitten sind."
 -
-    title: Graphic design
+    title: Grafik Design
     alias: graphic
     url: graphic-design
     image: /images/services/illustration.png
