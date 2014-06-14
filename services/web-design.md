@@ -69,23 +69,23 @@ bottom:
     class: orange
     params:
     -
-        title: Bespoke Solutions
+        title: Individuelle Lösung
         icon: cogs
-        content: Your website is built from the ground up according to your exact technical specifications, keeping you informed & involved throughout the process.
+        content: Ihre Webseite wird von Grund auf nach Ihren genauen technischen Spezifikationen entwickelt. Derweil halten wir Sie immer auf dem Laufenden und binden Sie in den gesammten Entwicklungsprozess mit ein.
     -
-        title: Cutting Edge Design
+        title: Modernstes Design
         icon: rocket
-        content: We make your brand stand out from the crowd with stunning, unique designs tailored to your business and target audience.
+        content: Mit atemberaubenden, einzigartigen Designs die genau auf Sie und Ihre Kunden zugeschnitten sind, sorgen wir dafür, dass sich Ihre Marke von der Konkurenz abhebt.
     -
         title: SEO Ready
         icon: search
-        content: Search engine friendly code & URL structures mean your website already comes optimised for maximum search engine performance.
+        content: Suchmaschienenfreundlicher Code und URL Strukturen bedeuten, dass Ihre Webseite für die maximale Suchmaschienenleistung optimiert wurde.
 -
     type: portfolio
-    title: Website Design Projects
+    title: Design Projekte
 -
     type: services
-    title: Our Services
+    title: Unsere Services
     class: grey
 ---
 ABE Media specialise in websites designed with the consumer in mind, creating a balance between creativity and functionality to deliver a unique user experience.
