@@ -2,11 +2,11 @@
 layout: service
 category: services
 title: Web Design Bremen
-heading: Web Design & Development
+heading: Web Design & Entwicklung
 slug: web-design-bremen
 permalink: web-design-bremen.html
 image: /images/services/web-development.png
-lead: From simple brochure sites to bespoke database driven systems, ABE Media delivers solutions which are fast, user-friendly and fully optimised for search engine performance.
+lead: Von einfachen Web-Visitenkarten bis hin zu maßgeschneiderten Datenbankgestützten Systemen, ABE Media liefert Lösungen die schnell, benutzerfreundlich und für Suchmaschienen optimiert sind.
 previews:
 -
     xl: /images/portfolio/intergalactic-music/intergalactic-music-homepage_xl.jpg
@@ -26,20 +26,20 @@ previews:
 bottom:
 -
     type: products
-    title: Web Design Prices
+    title: Web Design Preise
     class: grey
     params:
     -
-        title: Brochure site
+        title: Web-Visitenkarte
         price: "800"
         icon: html5
-        desc: "<b>Brochure site</b> featuring:"
+        desc: "<b>Web-Visitenkarte</b> featuring:"
         features: 
-            - Bespoke design | We don't use any templates at ABE Media but create the design from scratch according to your specifications.
-            - Search engine friendly build | We follow the latest coding standards, implement search engine friendly URLs and create an XML sitemap which is submitted to Google.
-            - Home, contact & 3 pages | We design and populate your front page, contact page and 3 extra pages.
-            - News blog | A blog including RSS feeds and auto-publish to social platforms such as Facebook & Twitter.
-            - Edit pages | Edit pages yourself from our simple to use gitCMS application.
+            - Maßgeschneidertes Design | Wir bei ABE Media benutzen keine Templates, sondern erstellen Ihr Design von Grund auf selber.
+            - Suchmaschienenfreundlich gebaut | Wir folgen den aktuellsten Web-Standards, implementieren Suchmaschienenfreundliche URLs und erstellen eine XML Sitemap die wir bei Google einreichen.
+            - Home, Kontakt & 3 Seiten | Wir designen und füllen Ihre Frontpage, Kontaktseite und 3 weitere Seiten.
+            - Nachrichten Blog | Ein Blog mit RSS feeds und automatischem veröffentlichen auf sozialen Platformen wie Facebook & Twitter.
+            - Editierbare Seiten | Bearbeiten Sie Ihre Seite selber, von unserem einfach zu benutzenden gitCMS.
     -
         title: CMS
         price: "1,200"
@@ -47,11 +47,11 @@ bottom:
         desc: "<b>Joomla! CMS</b> website featuring:"
         link: /content-management-systems-cms
         features: 
-            - Bespoke design | We don't use any templates at ABE Media but create the design from scratch according to your specifications.
-            - Search engine friendly build | We follow the latest coding standards, implement search engine friendly URLs and create an XML sitemap which is submitted to Google.
-            - Home, contact & 3 pages | We design and populate your front page, contact page and 3 extra pages.
-            - News blog | A blog including RSS feeds and auto-publish to social platforms such as Facebook & Twitter.
-            - Add unlimited pages | Add unlimited pages yourself from Joomla's easy to use admin interface.
+            - Maßgeschneidertes Design | Wir bei ABE Media benutzen keine Templates, sondern erstellen Ihr Design von Grund auf selber.
+            - Suchmaschienenfreundlich gebaut | Wir folgen den aktuellsten Web-Standards, implementieren Suchmaschienenfreundliche URLs und erstellen eine XML Sitemap die wir bei Google einreichen.
+            - Home, Kontakt & 3 Seiten | Wir designen und füllen Ihre Frontpage, Kontaktseite und 3 weitere Seiten.
+            - Nachrichten Blog | Ein Blog mit RSS feeds und automatischem veröffentlichen auf sozialen Platformen wie Facebook & Twitter.
+            - Unbegrenzt Seiten hinzufügen | Fügen Sie soviele Seiten wie Sie wollen hinzu aus Joomla's einfach zu benutzender Adminoberfläche.
     -
         title: Ecommerce
         price: "2,500"
@@ -59,11 +59,11 @@ bottom:
         desc: "<strong>Ecommerce</strong> website featuring:"
         link: /ecommerce-web-design
         features: 
-            - Bespoke design | We don't use any templates at ABE Media but create the design from scratch according to your specifications.
-            - 5 CMS pages | We design & populate up to 5 content pages at no charge.
-            - Custom payment gateways | We set up your preferred payment gateways for your eg. PayPal, Google Wallet, SagePay etc.
-            - 50 categories | We set up a maximum of 50 categories for you.
-            - 2h remote training | We train you and your staff how to manage orders, add or edit products, manage client accounts etc.
+            - Maßgeschneidertes Design | Wir bei ABE Media benutzen keine Templates, sondern erstellen Ihr Design von Grund auf selber.
+            - 5 CMS Seiten | Wir designen und füllen bis zu 5 Seiten ohne extra Kosten.
+            - Individuelle Zahlungs-Gateways | Wir richten Ihr Bevorzugtes Zahlungs-Gateway ein zb. PayPal, Google Wallet, SagePay etc.
+            - 50 Kategorien | Wir richten bis zu 50 Kategorien für Sie ein.
+            - 2h Remote-Schulung | Wir schulen Sie und Ihre Mitarbeiter, damit Sie Bestellungen, Produkte und Kundenprofile Verwalten können etc.
 -
     type: text
     class: orange
