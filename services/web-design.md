@@ -44,7 +44,7 @@ bottom:
         title: CMS
         price: "1,200"
         icon: joomla
-        desc: "<b>Joomla! CMS</b> website featuring:"
+        desc: "<b>Joomla! CMS</b> Webseite featuring:"
         link: /content-management-systems-cms
         features: 
             - Maßgeschneidertes Design | Wir bei ABE Media benutzen keine Templates, sondern erstellen Ihr Design von Grund auf selber.
@@ -56,7 +56,7 @@ bottom:
         title: Ecommerce
         price: "2,500"
         icon: shopping-cart
-        desc: "<strong>Ecommerce</strong> website featuring:"
+        desc: "<strong>Ecommerce</strong> Webseite featuring:"
         link: /ecommerce-web-design
         features: 
             - Maßgeschneidertes Design | Wir bei ABE Media benutzen keine Templates, sondern erstellen Ihr Design von Grund auf selber.
