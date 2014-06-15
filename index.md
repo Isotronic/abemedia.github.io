@@ -36,6 +36,6 @@ bottom:
 
 # Eine etwas andere Web-Design Agentur in Bremen
 
-Wir sind ein kleines, aber innovatives Team von technologie-geeks aus <strong>Brighton, UK</strong> und <strong>Bremen, DE</strong>, das digitale Erfahrungen für das Web & mobile Endgeräte kreiert und <strong>Web-Design</strong>, Web-Entwicklung und Grafik-Design an Kunden in England und Deutschland anbietet.
+Wir sind ein kleines, aber innovatives Team von Technologie-Experten aus <strong>Brighton, UK</strong> und <strong>Bremen, DE</strong>, das digitale Erfahrungen für das Web & mobile Endgeräte kreiert und <strong>Web-Design</strong>, Web-Entwicklung und Grafik-Design an Kunden in England und Deutschland anbietet.
 
 Egal ob Sie eine neue Webseite, einen neuen Look für Ihre aktuelle Webseite oder eine komplexe Applikation brauchen - ABE Media entwickelt Lösungen die sowohl wunderschön, als auch funktionell sind und immer den neuesten digitalen und Online-Marketing Trends gerecht sind.
